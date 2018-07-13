@@ -20,7 +20,7 @@
 1. 导入bbs项目到ecplise或者idea，然后通过maven加载jar包，
 2. 找到bbs项目下的applicationContext.xml，修改数据库账号的密码
 3. 新建bbs数据库，将bbs下的bbs.sql导入数据库
-6.正常的话便可运行即可
+4.正常的话便可运行即可
 数据库已有账号  管理员 用户名admin 密码123
                普通用户 账号123 密码123
 
@@ -29,7 +29,7 @@
 #### 项目截图
 首页
 ![首页](https://github.com/gitforzzj/bbs/blob/master/bbs/images/%E9%A6%96%E9%A1%B5.png)
-(https://github.com/gitforzzj/bbs/blob/master/bbs/images/%E9%A6%96%E9%A1%B52.png)
+![首页](https://github.com/gitforzzj/bbs/blob/master/bbs/images/%E9%A6%96%E9%A1%B52.png)
 
 登录页面
 ![登录页面](https://github.com/gitforzzj/bbs/blob/master/bbs/images/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)
